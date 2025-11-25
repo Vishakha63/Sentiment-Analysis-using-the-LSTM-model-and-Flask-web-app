@@ -1,7 +1,7 @@
 # Sentiment Analysis using LSTM and Flask Web Application
 
 This project implements an end-to-end **Sentiment Analysis** system using a **Long Short-Term Memory (LSTM)** deep learning model and a **Flask web application** for real-time sentiment prediction.  
-Users can enter text, and the system classifies it as **Positive**, **Negative**, or **Neutral**.
+Users can enter text, and the system classifies it as **Positive**, **Negative**.
 
 ---
 
